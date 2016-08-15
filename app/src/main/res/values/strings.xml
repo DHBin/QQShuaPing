@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QQ刷屏</string>
+    <string name="help">使用方法: 在聊天输入框输入指令即可
+        \n刷屏指令：/sp 刷屏文字
+        \n多行刷屏指令：/msp
+        \n设置次数：/setTimes 次数（默认：10）
+        \n设置频率：/setF 频率（默认：100ms）
+        \n重置指令：/reset</string>
+    <string name="donate"><a href="https://ds.alipay.com/?from=mobilecodec&amp;scheme=alipayqr%3A%2F%2Fplatformapi%2Fstartapp%3FsaId%3D10000007%26clientVersion%3D3.7.0.0718%26qrcode%3Dhttps%253A%252F%252Fqr.alipay.com%252Fapx03387fsyaq8us5kabh8a%253F_s%253Dweb-other">请我吃辣条</a></string>
+</resources>
